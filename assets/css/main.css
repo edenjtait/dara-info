@@ -1,4 +1,4 @@
-/* Basic styling */
+/* ===== BASE STYLES ===== */
 body {
   font-family: 'Source Sans 3', sans-serif;
   color: #FFFFFF;
@@ -6,20 +6,57 @@ body {
   margin: 0;
   padding: 0;
 }
+
+/* Reset list styles globally */
+ul, ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Lists that need bullets */
+ul.with-bullets {
+  list-style: disc;
+  margin-left: 1.5em;
+}
+
+ol.with-bullets {
+  list-style: decimal;
+  margin-left: 1.5em;
+}
+
+hr {
+  width: 100%;
+  height: 1px;
+  background-color: #505B94;
+  border: 0;
+  margin: 1rem 0;
+}
+
+/* ===== LAYOUT ===== */
 #wrapper {
   display: flex;
   justify-content: center;
   padding: 0 1rem;
 }
+
 #main {
   background-color: #0B0F11;
   max-width: 75rem;
   width: 100%;
 }
+
 .container {
-  margin-bottom: 1rem;
+  width: 100%;
+  max-width: 2000px;
+  margin: 0 auto 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-radius: 5px;
+  overflow: hidden;
 }
-/* Header styling */
+
+/* ===== HEADER ===== */
 #container02 {
   display: flex;
   width: 100%;
@@ -27,14 +64,55 @@ body {
   justify-content: center;
   background-color: #07070F;
 }
+
+#container02 .wrapper .inner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+#container02 .wrapper .inner > div:first-child {
+  flex: 0 0 auto; /* Don't grow or shrink */
+}
+
+#container02 .wrapper .inner > div:last-child {
+  flex: 1 1 auto; /* Grow and fill available space */
+}
+
+/* ===== LOGO ===== */
 #image01 {
   text-align: center;
 }
+
 #image01 .frame {
   width: 6.375rem;
   height: 6.625rem;
 }
-/* Text and buttons */
+
+#dara-logo {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#dara-logo .frame {
+  width: 80px;
+  height: auto;
+  display: inline-block;
+}
+
+#dara-logo img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Footer logo */
+#footer #dara-logo .frame {
+  width: 60px;
+}
+
+/* ===== TYPOGRAPHY ===== */
 #text03 {
   text-align: left;
   color: #FFFFFF;
@@ -42,7 +120,10 @@ body {
   font-size: 2.5em;
   line-height: 1.5;
   font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
 }
+
 #text07 {
   text-align: center;
   color: #FFFFFF;
@@ -51,12 +132,26 @@ body {
   line-height: 1.5;
   font-weight: 400;
 }
+
+#text02, #text61 {
+  color: #505B94;
+  font-size: 0.625em;
+}
+
+/* ===== BUTTONS ===== */
 .buttons {
   display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
   gap: 0.75rem;
 }
+
+#buttons01.buttons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 .buttons li a {
   display: inline-block;
   width: auto;
@@ -72,39 +167,19 @@ body {
   text-decoration: none;
   transition: color 0.25s ease, background-color 0.25s ease;
 }
+
 .buttons li a:hover {
   background-color: #F2C834;
 }
-/* Footer */
+
+/* ===== FOOTER ===== */
 #footer {
   text-align: center;
   background-color: #000000;
   padding: 1rem;
 }
-hr {
-  width: 100%;
-  height: 1px;
-  background-color: #505B94;
-  border: 0;
-  margin: 1rem 0;
-}
-#text02, #text61 {
-  color: #505B94;
-  font-size: 0.625em;
-}
 
-/* Species Database Styles */
-.container {
-  width: 100%;
-  max-width: 2000px;
-  margin: 0 auto;
-  background-color: rgba(0, 0, 0, 0.7);
-  box-shadow: 0 0 10px rgba(0,0,0,0.5);
-  border-radius: 5px;
-  overflow: hidden;
-}
-
-/* Navigation sidebar */
+/* ===== SIDEBAR NAVIGATION ===== */
 .sidebar {
   width: 300px;
   background-color: rgba(0, 0, 0, 0.5);
@@ -118,12 +193,6 @@ hr {
   margin-top: 0;
   padding-bottom: 5px;
   border-bottom: 1px solid rgba(167, 215, 249, 0.3);
-}
-
-.sidebar ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
 }
 
 .sidebar li {
@@ -161,7 +230,6 @@ hr {
   padding-left: 15px;
 }
 
-/* Mobile menu button */
 .mobile-menu-btn {
   display: none;
   background: rgba(0, 0, 0, 0.5);
@@ -175,7 +243,7 @@ hr {
   border-bottom: 1px solid rgba(167, 215, 249, 0.3);
 }
 
-/* Main content area */
+/* ===== CONTENT LAYOUT ===== */
 .content-wrapper {
   display: flex;
   flex-direction: column;
@@ -190,46 +258,13 @@ hr {
   margin-top: 0;
 }
 
-/* Wiki category grid */
-.category-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
-  gap: 20px;
-  margin: 20px 0;
-}
-
-.category-item {
-  background-color: rgba(0, 0, 0, 0.3);
-  border-radius: 5px;
-  overflow: hidden;
-  transition: transform 0.3s;
-  border: 1px solid rgba(167, 215, 249, 0.2);
-}
-
-.category-item:hover {
-  transform: scale(1.03);
-  box-shadow: 0 0 15px rgba(167, 215, 249, 0.2);
-}
-
-.category-image {
-  width: 100%;
-  height: 225px;
-  object-fit: cover;
-  border-bottom: 1px solid rgba(167, 215, 249, 0.2);
-}
-
-.category-title {
-  padding: 10px;
-  text-align: center;
-  font-weight: 600;
-}
-
 .infobox-container {
   width: 100%;
   margin-bottom: 20px;
   order: 1;
 }
 
+/* ===== INFOBOX STYLES ===== */
 aside {
   width: 100%;
   background-color: rgba(0, 0, 0, 0.5);
@@ -271,6 +306,109 @@ aside {
   font-weight: 600;
 }
 
+/* ===== CATEGORY GRID ===== */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.category-item {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  overflow: hidden;
+  transition: transform 0.3s;
+  border: 1px solid rgba(167, 215, 249, 0.2);
+}
+
+.category-item:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px rgba(167, 215, 249, 0.2);
+}
+
+.category-image {
+  width: 100%;
+  height: 225px;
+  object-fit: cover;
+  border-bottom: 1px solid rgba(167, 215, 249, 0.2);
+}
+
+.category-title {
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* ===== LIGHTBOX STYLES ===== */
+.thumbnail {
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 4px;
+  border: 2px solid rgba(167, 215, 249, 0.3);
+  box-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
+
+.thumbnail:hover {
+  opacity: 0.8;
+}
+
+.lightbox {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.9);
+  text-align: center;
+}
+
+.lightbox-content {
+  max-width: 90%;
+  max-height: 80vh;
+  margin-top: 5vh;
+}
+
+.lightbox-caption {
+  color: #fff;
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* ===== SPECIES-SPECIFIC STYLES ===== */
+.species-image {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.species-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+.species-image figcaption {
+  font-size: 14px;
+  color: #a7d7f9;
+  margin-top: 5px;
+}
+
+/* ===== MEDIA QUERIES ===== */
 /* Mobile styles */
 @media (max-width: 768px) {
   body {
@@ -321,170 +459,7 @@ aside {
   .category-image {
     height: 120px;
   }
-}
 
-/* Desktop styles */
-@media (min-width: 769px) {
-  .content-wrapper {
-    display: flex;
-    flex-direction: row;
-  }
-
-  .main-content {
-    flex: 1;
-    padding: 20px;
-    order: 1;
-  }
-
-  .infobox-container {
-    width: 300px;
-    order: 2;
-    margin: 20px 20px 20px 0;
-  }
-}
-
-/* Lightbox styles */
-.thumbnail {
-  width: 200px;
-  height: auto;
-  cursor: pointer;
-  transition: 0.3s;
-  border-radius: 4px;
-  border: 2px solid rgba(167, 215, 249, 0.3);
-  box-shadow: 0 0 8px rgba(0,0,0,0.3);
-}
-
-.thumbnail:hover {
-  opacity: 0.8;
-}
-
-.lightbox {
-  display: none;
-  position: fixed;
-  z-index: 1000;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.9);
-  text-align: center;
-}
-
-.lightbox-content {
-  max-width: 90%;
-  max-height: 80vh;
-  margin-top: 5vh;
-}
-
-.lightbox-caption {
-  color: #fff;
-  padding: 10px;
-  font-size: 1.2em;
-}
-
-.close-btn {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  color: white;
-  font-size: 35px;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-/* Species-specific styles */
-.species-image {
-  text-align: center;
-  margin: 15px 0;
-}
-
-.species-image img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 3px;
-  box-shadow: 0 0 5px rgba(0,0,0,0.5);
-}
-
-.species-image figcaption {
-  font-size: 14px;
-  color: #a7d7f9;
-  margin-top: 5px;
-}
-
-#dara-logo {
-  text-align: center;
-}
-
-#dara-logo .frame {
-  width: 80px;  /* Adjust this value to control the logo size */
-  height: auto; /* Maintains aspect ratio */
-  display: inline-block;
-}
-
-#dara-logo img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* For the footer logo, you might want it even smaller */
-#footer #dara-logo .frame {
-  width: 60px;  /* Smaller size for footer */
-}
-
-/* This ensures all lists in the document have no bullets */
-ul, ol {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-/* In case there are any that still need bullets */
-ul.with-bullets {
-  list-style: disc;
-  margin-left: 1.5em;
-}
-
-ol.with-bullets {
-  list-style: decimal;
-  margin-left: 1.5em;
-}
-
-/* Fix for navigation buttons specifically */
-#buttons01.buttons {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-/* Improve header layout */
-#container02 .wrapper .inner {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  width: 100%;
-}
-
-#container02 .wrapper .inner > div:first-child {
-  flex: 0 0 auto; /* Don't grow or shrink */
-}
-
-#container02 .wrapper .inner > div:last-child {
-  flex: 1 1 auto; /* Grow and fill available space */
-}
-
-/* Ensure the logo doesn't push content down */
-#dara-logo {
-  margin: 0;
-  padding: 0;
-}
-
-#text03 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-/* Make sure header is responsive */
-@media (max-width: 768px) {
   #container02 .wrapper .inner {
     flex-direction: column;
     align-items: flex-start;
@@ -504,5 +479,25 @@ ol.with-bullets {
   #buttons01.buttons {
     justify-content: center;
     width: 100%;
+  }
+}
+
+/* Desktop styles */
+@media (min-width: 769px) {
+  .content-wrapper {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .main-content {
+    flex: 1;
+    padding: 20px;
+    order: 1;
+  }
+
+  .infobox-container {
+    width: 300px;
+    order: 2;
+    margin: 20px 20px 20px 0;
   }
 }
