@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site
 collections:
   species:
     output: true
-    permalink: /dara-info/species/:path/
+    permalink: /species/:path/
 
 # Build settings
 markdown: kramdown

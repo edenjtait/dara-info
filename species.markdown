@@ -1,7 +1,7 @@
 ---
 layout: species
 title: DARA Species Database
-permalink: /dara-info/species/
+permalink: /species/
 show_sidebar: true
 sidebar_menu:
   - id: astral-moth
