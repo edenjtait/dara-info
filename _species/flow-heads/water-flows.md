@@ -17,7 +17,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/water-flow-heads.png
+  image: /assets/images/water-flow-logo.png
   caption: Water Flow Heads
   attributes:
     - name: Rarity
