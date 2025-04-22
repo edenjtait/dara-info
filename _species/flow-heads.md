@@ -1,7 +1,7 @@
 ---
 layout: species
 title: Flow Heads | DARA Species Database
-permalink: /species/flow-heads/
+permalink: /dara-info/species/flow-heads/
 show_sidebar: true
 sidebar_menu:
   - id: flow-types
