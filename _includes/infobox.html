@@ -1,0 +1,28 @@
+{% if page.infobox %}
+<div class="infobox-container">
+  <aside>
+    <table class="infobox">
+      <caption>{{ page.infobox.caption }}</caption>
+      {% if page.infobox.image %}
+      <tr>
+        <th colspan="2" style="text-align:center;background-color:rgba(167, 215, 249, 0.2)">
+          <div class="species-image">
+            <img src="{{ page.infobox.image | relative_url }}"
+                 alt="{{ page.infobox.caption }}"
+                 class="thumbnail"
+                 onclick="openLightbox(this.src, this.alt)">
+          </div>
+        </th>
+      </tr>
+      {% endif %}
+      
+      {% for attribute in page.infobox.attributes %}
+      <tr>
+        <th>{{ attribute.name }}</th>
+        <td>{{ attribute.value }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+  </aside>
+</div>
+{% endif %}

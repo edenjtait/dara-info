@@ -1,0 +1,42 @@
+layout: default
+---
+<div class="container">
+  {% if page.show_sidebar %}
+  <button class="mobile-menu-btn" onclick="toggleSidebar()">☰ Menu</button>
+  <div class="sidebar" id="sidebar">
+    <h3>Navigation</h3>
+    <ul>
+      <li><a href="{{ '/' | relative_url }}"><strong>⮜ Back to Homepage</strong></a></li>
+      <li><a href="{{ '/species' | relative_url }}"><strong>✦ Species Database</strong></a></li>
+      {% if page.sidebar_menu %}
+        {% for section in page.sidebar_menu %}
+          <ul>
+            <li><a href="#{{ section.id }}">{{ section.title }}</a></li>
+            {% if section.subsections %}
+              <ul>
+                {% for subsection in section.subsections %}
+                  <li><a href="#{{ subsection.id }}">{{ subsection.title }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </ul>
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </div>
+  {% endif %}
+  <div class="content-wrapper">
+    {% include infobox.html %}
+    <main class="main-content">
+      {{ content }}
+    </main>
+  </div>
+
+  <!-- Lightbox HTML -->
+  <div id="lightbox" class="lightbox" onclick="closeLightbox()">
+    <span class="close-btn">&times;</span>
+    <img class="lightbox-content" id="lightbox-img">
+    <div id="lightbox-caption" class="lightbox-caption"></div>
+  </div>
+</div>
+<script src="{{ '/assets/js/script.js' | relative_url }}"></script>
