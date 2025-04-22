@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
   });
-  
+
   // Adjust container width to fit its parent
   function adjustContainerWidth() {
     const container = document.querySelector('.container');
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
       container.style.maxWidth = '100%';
     }
   }
-  
+
   // Run on load and resize
   adjustContainerWidth();
   window.addEventListener('resize', adjustContainerWidth);
