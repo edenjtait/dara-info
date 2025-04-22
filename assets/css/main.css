@@ -410,3 +410,23 @@ aside {
   color: #a7d7f9;
   margin-top: 5px;
 }
+
+#dara-logo {
+  text-align: center;
+}
+
+#dara-logo .frame {
+  width: 80px;  /* Adjust this value to control the logo size */
+  height: auto; /* Maintains aspect ratio */
+  display: inline-block;
+}
+
+#dara-logo img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* For the footer logo, you might want it even smaller */
+#footer #dara-logo .frame {
+  width: 60px;  /* Smaller size for footer */
+}
