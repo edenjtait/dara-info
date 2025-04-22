@@ -430,3 +430,79 @@ aside {
 #footer #dara-logo .frame {
   width: 60px;  /* Smaller size for footer */
 }
+
+/* This ensures all lists in the document have no bullets */
+ul, ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* In case there are any that still need bullets */
+ul.with-bullets {
+  list-style: disc;
+  margin-left: 1.5em;
+}
+
+ol.with-bullets {
+  list-style: decimal;
+  margin-left: 1.5em;
+}
+
+/* Fix for navigation buttons specifically */
+#buttons01.buttons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Improve header layout */
+#container02 .wrapper .inner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+#container02 .wrapper .inner > div:first-child {
+  flex: 0 0 auto; /* Don't grow or shrink */
+}
+
+#container02 .wrapper .inner > div:last-child {
+  flex: 1 1 auto; /* Grow and fill available space */
+}
+
+/* Ensure the logo doesn't push content down */
+#dara-logo {
+  margin: 0;
+  padding: 0;
+}
+
+#text03 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+/* Make sure header is responsive */
+@media (max-width: 768px) {
+  #container02 .wrapper .inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  #text03 {
+    font-size: 1.8em;
+    text-align: center;
+    width: 100%;
+  }
+
+  #dara-logo {
+    text-align: center;
+    width: 100%;
+  }
+
+  #buttons01.buttons {
+    justify-content: center;
+    width: 100%;
+  }
+}
