@@ -1,8 +1,8 @@
 # Site settings
 title: DARA - Department of Astrofauna and Abilities
 description: Information and Database for the War Drums Webcomic Series
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/dara-info" # the subpath of your site, e.g. /blog
+url: "https://edenjtait.github.io" # the base hostname & protocol for your site
 
 # Collections
 collections:
