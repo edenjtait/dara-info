@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/poison-example-1.png' | relative_url }}" 
-         alt="poison Flow Head" 
+         alt="Poison Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Poison Flow Head specimen (click to enlarge)</figcaption>

@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/earth-example-1.png' | relative_url }}" 
-         alt="earth Flow Head" 
+         alt="Earth Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Earth Flow Head specimen (click to enlarge)</figcaption>

@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/electric-example-1.png' | relative_url }}" 
-         alt="electric Flow Head" 
+         alt="Electric Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Electric Flow Head specimen (click to enlarge)</figcaption>

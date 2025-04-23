@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/nature-example-1.png' | relative_url }}" 
-         alt="nature Flow Head" 
+         alt="Nature Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Nature Flow Head specimen (click to enlarge)</figcaption>

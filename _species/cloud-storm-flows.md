@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/cloud-storm-example-1.png' | relative_url }}" 
-         alt="cloud-storm Flow Head" 
+         alt="Cloud/Storm Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Cloud/Storm Flow Head specimen (click to enlarge)</figcaption>

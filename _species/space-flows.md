@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/space-example-1.png' | relative_url }}" 
-         alt="space Flow Head" 
+         alt="Space Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Space Flow Head specimen (click to enlarge)</figcaption>

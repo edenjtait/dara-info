@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/void-example-1.png' | relative_url }}" 
-         alt="void Flow Head" 
+         alt="Void Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Void Flow Head specimen (click to enlarge)</figcaption>

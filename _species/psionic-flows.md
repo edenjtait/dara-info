@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/psionic-example-1.png' | relative_url }}" 
-         alt="psionic Flow Head" 
+         alt="Psionic Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Psionic Flow Head specimen (click to enlarge)</figcaption>

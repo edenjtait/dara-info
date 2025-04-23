@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/air-example-1.png' | relative_url }}" 
-         alt="air Flow Head" 
+         alt="Air Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Air Flow Head specimen (click to enlarge)</figcaption>

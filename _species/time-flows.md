@@ -41,7 +41,7 @@ infobox:
 <div class="species-image">
   <figure>
     <img src="{{ '/assets/images/time-example-1.png' | relative_url }}" 
-         alt="time Flow Head" 
+         alt="Time Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
     <figcaption>A typical Time Flow Head specimen (click to enlarge)</figcaption>
