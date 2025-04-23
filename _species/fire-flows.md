@@ -42,7 +42,7 @@ infobox:
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/fire-flow-head.jpg' | relative_url }}" 
+    <img src="{{ '/assets/images/fire-example-1.png' | relative_url }}" 
          alt="Fire Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">

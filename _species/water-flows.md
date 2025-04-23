@@ -38,7 +38,7 @@ Thanks to modern plumbing, Water Flow Heads can now live wherever freely, even h
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/water-flow-head.jpg' | relative_url }}" 
+    <img src="{{ '/assets/images/water-example-1.png' | relative_url }}" 
          alt="Water Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
