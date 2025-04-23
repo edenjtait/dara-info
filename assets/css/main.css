@@ -408,6 +408,31 @@ aside {
   margin-top: 5px;
 }
 
+.flow-category-container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
+.common-flow {
+  border-left: 4px solid green; /* You can use a color that represents common flow heads */
+}
+
+/* If you want to add containers for the other rarities later */
+.uncommon-flow {
+  border-left: 4px solid blue;
+}
+
+.rare-flow {
+  border-left: 4px solid purple;
+}
+
+.mythical-flow {
+  border-left: 4px solid gold;
+}
+
 /* ===== MEDIA QUERIES ===== */
 /* Mobile styles */
 @media (max-width: 768px) {

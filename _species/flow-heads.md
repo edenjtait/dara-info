@@ -67,26 +67,96 @@ Flow Heads come in 4 rarities: [Common](#common-flow), [Uncommon](#uncommon-flow
 
 All Flow heads are born with elemental abilities, but not all Flow Heads are equal in power. It is generally known that common Flows are the weakest yet fastest to learn how to harness their abilities while mythical Flows are so strong that even they cannot control their own abilities and will likely never learn how to.
 
+## Common Flow Heads {#common-flow}
+
 <div class="category-grid">
-  <a href="{{ '/species/flow-heads/common/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/common-flow-heads.png' | relative_url }}" class="category-image">
-    <div class="category-title">Common Flow Heads</div>
+  <a href="{{ '/species/flow-heads/water/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/water-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Water Flow Heads</div>
   </a>
   
-  <a href="{{ '/species/flow-heads/uncommon/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/uncommon-flow-heads.png' | relative_url }}" class="category-image">
-    <div class="category-title">Uncommon Flow Heads</div>
+  <a href="{{ '/species/flow-heads/fire/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/fire-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Fire Flow Heads</div>
   </a>
   
-  <a href="{{ '/species/flow-heads/rare/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/rare-flow-heads.png' | relative_url }}" class="category-image">
-    <div class="category-title">Rare Flow Heads</div>
+  <a href="{{ '/species/flow-heads/earth/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/earth-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Earth Flow Heads</div>
   </a>
   
-  <a href="{{ '/species/flow-heads/mythical/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/mythical-flow-heads.png' | relative_url }}" class="category-image">
-    <div class="category-title">Mythical Flow Heads</div>
+  <a href="{{ '/species/flow-heads/air/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/air-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Air Flow Heads</div>
   </a>
+</div>
+
+## Uncommon Flow Heads {#uncommon-flow}
+
+<div class="category-grid">
+  <a href="{{ '/species/flow-heads/nature/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/nature-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Nature Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/cloud-storm/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/cloud-storm-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Cloud/Storm Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/electric/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/electric-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Electric Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/poison/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/poison-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Poison Flow Heads</div>
+  </a>
+</div>
+
+## Rare Flow Heads {#rare-flow}
+
+<div class="category-grid">
+  <a href="{{ '/species/flow-heads/void/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/void-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Dark/Void Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/light/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/light-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Light Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/blood/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/blood-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Blood Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/psionics/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/psionics-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Psionics Flow Heads</div>
+  </a>
+</div>
+
+## Mythical Flow Heads {#mythical-flow}
+
+<div class="category-grid">
+  <a href="{{ '/species/flow-heads/space/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/space-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Space Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/time/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/time-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Time Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/death/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/death-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Death Flow Heads</div>
+  </a>
+  
 </div>
 
 ## Habitat and Distribution {#habitat}
