@@ -57,7 +57,7 @@ hr {
 }
 
 /* ===== HEADER ===== */
-#container02 {
+#header {
   display: flex;
   width: 100%;
   align-items: flex-start;
@@ -65,27 +65,27 @@ hr {
   background-color: #07070F;
 }
 
-#container02 .wrapper .inner {
+#header .wrapper .inner {
   display: flex;
   align-items: center;
   gap: 1rem;
   width: 100%;
 }
 
-#container02 .wrapper .inner > div:first-child {
+#header .wrapper .inner > div:first-child {
   flex: 0 0 auto; /* Don't grow or shrink */
 }
 
-#container02 .wrapper .inner > div:last-child {
+#header .wrapper .inner > div:last-child {
   flex: 1 1 auto; /* Grow and fill available space */
 }
 
 /* ===== LOGO ===== */
-#image01 {
+#logo {
   text-align: center;
 }
 
-#image01 .frame {
+#logo .frame {
   width: 6.375rem;
   height: 6.625rem;
 }
@@ -113,7 +113,7 @@ hr {
 }
 
 /* ===== TYPOGRAPHY ===== */
-#text03 {
+#dara-full-title {
   text-align: left;
   color: #FFFFFF;
   font-family: 'Source Sans 3', sans-serif;
@@ -124,7 +124,7 @@ hr {
   margin-bottom: 0.5rem;
 }
 
-#text07 {
+#homepage {
   text-align: center;
   color: #FFFFFF;
   font-family: 'Source Sans 3', sans-serif;
@@ -133,7 +133,7 @@ hr {
   font-weight: 400;
 }
 
-#text02, #text61 {
+#disclaimer-text, #links {
   color: #505B94;
   font-size: 0.625em;
 }
@@ -146,7 +146,7 @@ hr {
   gap: 0.75rem;
 }
 
-#buttons01.buttons {
+#nav-bar.buttons {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -461,12 +461,12 @@ aside {
     width: 100%;
   }
 
-  #container02 .wrapper .inner {
+  #header .wrapper .inner {
     flex-direction: column;
     align-items: flex-start;
   }
 
-  #text03 {
+  #dara-full-title {
     font-size: 1.8em;
     text-align: center;
     width: 100%;
@@ -477,7 +477,7 @@ aside {
     width: 100%;
   }
 
-  #buttons01.buttons {
+  #nav-bar.buttons {
     justify-content: center;
     width: 100%;
   }
