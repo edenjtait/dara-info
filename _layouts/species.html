@@ -11,11 +11,11 @@ layout: default
       <li><a href="{{ '/species' | relative_url }}"><strong>✦ Species Database</strong></a></li>
       {% if page.sidebar_menu %}
         {% for section in page.sidebar_menu %}
-          <li><a href="#{{ section.id }}">{{ section.title }}</a></li>
+          <li><a href="{{ section.id }}">{{ section.title }}</a></li>
           {% if section.subsections %}
             <ul>
               {% for subsection in section.subsections %}
-                <li><a href="#{{ subsection.id }}">{{ subsection.title }}</a></li>
+                <li><a href="{{ section.id/ }}#{{ subsection.id }}">{{ subsection.title }}</a></li>
               {% endfor %}
             </ul>
           {% endif %}
