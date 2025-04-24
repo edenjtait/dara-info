@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/air-flow-heads.png
+  image: /assets/images/air-flow-logo.png
   caption: Air Flow Heads
   attributes:
     - name: World of Origin

@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/electric-flow-heads.png
+  image: /assets/images/electric-flow-logo.png
   caption: Electric Flow Heads
   attributes:
     - name: World of Origin

@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/earth-flow-heads.png
+  image: /assets/images/earth-flow-logo.png
   caption: Earth Flow Heads
   attributes:
     - name: World of Origin

@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/light-flow-heads.png
+  image: /assets/images/light-flow-logo.png
   caption: Light Flow Heads
   attributes:
     - name: World of Origin

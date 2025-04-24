@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/poison-flow-heads.png
+  image: /assets/images/poison-flow-logo.png
   caption: Poison Flow Heads
   attributes:
     - name: World of Origin

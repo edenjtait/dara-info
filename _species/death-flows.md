@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/death-flow-heads.png
+  image: /assets/images/death-flow-logo.png
   caption: Death Flow Heads
   attributes:
     - name: World of Origin

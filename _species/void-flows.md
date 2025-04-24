@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/void-flow-heads.png
+  image: /assets/images/void-flow-logo.png
   caption: Void Flow Heads
   attributes:
     - name: World of Origin

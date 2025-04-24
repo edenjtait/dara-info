@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/fire-flow-heads.png
+  image: /assets/images/fire-flow-logo.png
   caption: Fire Flow Heads
   attributes:
     - name: World of Origin

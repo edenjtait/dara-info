@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/nature-flow-heads.png
+  image: /assets/images/nature-flow-logo.png
   caption: Nature Flow Heads
   attributes:
     - name: World of Origin
