@@ -330,7 +330,7 @@ aside {
 .category-image {
   width: 225px;
   height: auto;
-  object-fit: fill;
+  object-fit: contain;
   border-bottom: 1px solid rgba(167, 215, 249, 0.2);
 }
 
@@ -457,7 +457,8 @@ aside {
   }
 
   .category-image {
-    height: 120px;
+    height: auto;
+    width: 100%;
   }
 
   #container02 .wrapper .inner {
