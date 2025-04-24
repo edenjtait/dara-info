@@ -315,11 +315,14 @@ aside {
 }
 
 .category-item {
+  display: flex;
+  flex-direction: column;
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 5px;
   overflow: hidden;
   transition: transform 0.3s;
   border: 1px solid rgba(167, 215, 249, 0.2);
+  align-items: center;
 }
 
 .category-item:hover {
@@ -328,9 +331,12 @@ aside {
 }
 
 .category-image {
-  width: 225px;
+  max-width: 100%;
+  width: auto;
   height: auto;
-  object-fit: fill;
+  max-height: auto;
+  object-fit: contain;
+  padding: 10px;
   border-bottom: 1px solid rgba(167, 215, 249, 0.2);
 }
 
@@ -338,6 +344,7 @@ aside {
   padding: 10px;
   text-align: center;
   font-weight: 600;
+  width: 100%;
 }
 
 /* ===== LIGHTBOX STYLES ===== */
@@ -452,13 +459,15 @@ aside {
   }
 
   .category-grid {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
     gap: 15px;
   }
 
   .category-image {
-    height: 120px;
+    width: auto;
+    padding: 5px;
   }
+}
 
   #container02 .wrapper .inner {
     flex-direction: column;
