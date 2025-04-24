@@ -67,6 +67,7 @@ hr {
 
 #header .wrapper .inner {
   display: flex;
+  flex-direction: column;
   align-items: center;
   gap: 1rem;
   width: 100%;
@@ -124,14 +125,56 @@ hr {
   margin-bottom: 0.5rem;
 }
 
-#homepage {
-  text-align: center;
-  color: #FFFFFF;
-  font-family: 'Source Sans 3', sans-serif;
-  font-size: 1.875em;
-  line-height: 1.5;
-  font-weight: 400;
+/* Homepage specific styles */
+#home-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0;
 }
+
+#home-section .container {
+  width: 100%;
+  max-width: 800px;
+}
+
+#home-section .inner {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#home-section #homepage {
+  font-size: 2em;
+  margin-bottom: 1rem;
+}
+
+#home-section h2 {
+  font-size: 2.5em;
+  margin-bottom: 1.5rem;
+  color: #FFFFFF;
+}
+
+#home-section p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  display: block;
+  clear: both;
+}
+
+/* Force paragraph display */
+#home-section p:after {
+  content: "";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+
 
 #disclaimer-text, #links {
   color: #505B94;
