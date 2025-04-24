@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: DARA - Department of Astrofauna and Abilities
 ---
 

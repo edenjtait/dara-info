@@ -125,56 +125,37 @@ hr {
   margin-bottom: 0.5rem;
 }
 
-/* Homepage specific styles */
-#home-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem 0;
-}
-
-#home-section .container {
-  width: 100%;
-  max-width: 800px;
-}
-
-#home-section .inner {
+.home-content {
+  max-width: 1200px;
+  margin: 3rem auto;
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+  padding: 2rem;
 }
 
-#home-section #homepage {
-  font-size: 2em;
-  margin-bottom: 1rem;
+.about-content {
+  max-width: 1200px;
+  margin: 3rem auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+  padding: 2rem;
 }
 
-#home-section h2 {
-  font-size: 2.5em;
-  margin-bottom: 1.5rem;
-  color: #FFFFFF;
+.404-content {
+  max-width: 1200px;
+  margin: 3rem auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+  padding: 2rem;
 }
 
-#home-section p {
-  font-size: 1.2em;
-  line-height: 1.6;
-  margin-bottom: 1.5rem;
-  width: 100%;
-  display: block;
-  clear: both;
+.subtitle {
+  font-size: 1.5em;
+  color: #a7d7f9;
 }
-
-/* Force paragraph display */
-#home-section p:after {
-  content: "";
-  display: block;
-  height: 0;
-  clear: both;
-  visibility: hidden;
-}
-
-
 
 #disclaimer-text, #links {
   color: #505B94;
@@ -523,6 +504,11 @@ aside {
   #nav-bar.buttons {
     justify-content: center;
     width: 100%;
+  }
+
+  .home-content {
+    margin: 1rem auto;
+    padding: 1rem;
   }
 }
 
