@@ -100,7 +100,7 @@ All Flow heads are born with elemental abilities, but not all Flow Heads are equ
   </a>
   
   <a href="{{ '/species/flow-heads/cloud-storm/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/cloud-storm-flow-logo.png' | relative_url }}" class="category-image">
+    <img src="{{ '/assets/images/cloud-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Cloud/Storm Flow Heads</div>
   </a>
   

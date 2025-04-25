@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/cloud-storm-flow-logo.png
+  image: /assets/images/cloud-flow-logo.png
   caption: Cloud/Storm Flow Heads
   attributes:
     - name: World of Origin
