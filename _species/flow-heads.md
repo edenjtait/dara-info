@@ -142,14 +142,14 @@ All Flow heads are born with elemental abilities, but not all Flow Heads are equ
 ## Mythical Flow Heads {#mythical-flow}
 
 <div class="category-grid">
-  <a href="{{ '/species/flow-heads/space/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/space-flow-logo.png' | relative_url }}" class="category-image">
-    <div class="category-title">Space Flow Heads</div>
-  </a>
-  
   <a href="{{ '/species/flow-heads/time/' | relative_url }}" class="category-item">
     <img src="{{ '/assets/images/time-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Time Flow Heads</div>
+  </a>
+
+  <a href="{{ '/species/flow-heads/space/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/space-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Space Flow Heads</div>
   </a>
   
   <a href="{{ '/species/flow-heads/death/' | relative_url }}" class="category-item">
