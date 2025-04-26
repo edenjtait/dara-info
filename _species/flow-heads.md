@@ -103,15 +103,15 @@ All Flow heads are born with elemental abilities, but not all Flow Heads are equ
     <img src="{{ '/assets/images/electric-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Electric Flow Heads</div>
   </a>
+
+  <a href="{{ '/species/flow-heads/cloud-storm/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/cloud-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Cloud/Storm Flow Heads</div>
+  </a>
   
   <a href="{{ '/species/flow-heads/poison/' | relative_url }}" class="category-item">
     <img src="{{ '/assets/images/poison-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Poison Flow Heads</div>
-  </a>
-  
-  <a href="{{ '/species/flow-heads/cloud-storm/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/cloud-flow-logo.png' | relative_url }}" class="category-image">
-    <div class="category-title">Cloud/Storm Flow Heads</div>
   </a>
 </div>
 
