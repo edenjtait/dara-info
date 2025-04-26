@@ -99,11 +99,6 @@ All Flow heads are born with elemental abilities, but not all Flow Heads are equ
     <div class="category-title">Nature Flow Heads</div>
   </a>
   
-  <a href="{{ '/species/flow-heads/cloud-storm/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/cloud-flow-logo.png' | relative_url }}" class="category-image">
-    <div class="category-title">Cloud/Storm Flow Heads</div>
-  </a>
-  
   <a href="{{ '/species/flow-heads/electric/' | relative_url }}" class="category-item">
     <img src="{{ '/assets/images/electric-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Electric Flow Heads</div>
@@ -112,6 +107,11 @@ All Flow heads are born with elemental abilities, but not all Flow Heads are equ
   <a href="{{ '/species/flow-heads/poison/' | relative_url }}" class="category-item">
     <img src="{{ '/assets/images/poison-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Poison Flow Heads</div>
+  </a>
+  
+  <a href="{{ '/species/flow-heads/cloud-storm/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/cloud-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Cloud/Storm Flow Heads</div>
   </a>
 </div>
 
@@ -122,12 +122,7 @@ All Flow heads are born with elemental abilities, but not all Flow Heads are equ
     <img src="{{ '/assets/images/void-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Dark/Void Flow Heads</div>
   </a>
-  
-  <a href="{{ '/species/flow-heads/light/' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/light-flow-logo.png' | relative_url }}" class="category-image">
-    <div class="category-title">Light Flow Heads</div>
-  </a>
-  
+
   <a href="{{ '/species/flow-heads/blood/' | relative_url }}" class="category-item">
     <img src="{{ '/assets/images/blood-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Blood Flow Heads</div>
@@ -137,6 +132,12 @@ All Flow heads are born with elemental abilities, but not all Flow Heads are equ
     <img src="{{ '/assets/images/psionic-flow-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Psionic Flow Heads</div>
   </a>
+    
+  <a href="{{ '/species/flow-heads/light/' | relative_url }}" class="category-item">
+    <img src="{{ '/assets/images/light-flow-logo.png' | relative_url }}" class="category-image">
+    <div class="category-title">Light Flow Heads</div>
+  </a>
+  
 </div>
 
 ## Mythical Flow Heads {#mythical-flow}
