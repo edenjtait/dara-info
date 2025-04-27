@@ -1,0 +1,12 @@
+<div class="category-grid{% if include.class %} {{ include.class }}{% endif %}"
+     {% if include.style %}style="{{ include.style }}"{% endif %}>
+  {% for item in include.items %}
+    <a href="{{ item.url | relative_url }}" class="category-item">
+      <img src="{{ item.image | relative_url }}" class="category-image">
+      <div class="category-title">{{ item.title }}</div>
+      {% if item.description %}
+        <div class="category-description">{{ item.description }}</div>
+      {% endif %}
+    </a>
+  {% endfor %}
+</div>
