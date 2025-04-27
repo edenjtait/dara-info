@@ -1,13 +1,19 @@
 types:
   - title: Aquatic
     url: /species/jardarions/aquatic/
-    image: /assets/images/flow-head/water-flow-logo.png
-  - title: Fire Flow Heads
-    url: /species/flow-heads/fire/
-    image: /assets/images/flow-head/fire-flow-logo.png
-  - title: Earth Flow Heads
-    url: /species/flow-heads/earth/
-    image: /assets/images/flow-head/earth-flow-logo.png
-  - title: Air Flow Heads
-    url: /species/flow-heads/air/
-    image: /assets/images/flow-head/air-flow-logo.png
+    image: /assets/images/jardarion/aquatic-logo.png
+  - title: Fighter
+    url: /species/jardarions/fighter/
+    image: /assets/images/jardarion/fighter-logo.png
+  - title: Gardner
+    url: /species/jardarions/garnder/
+    image: /assets/images/jardarion/gardner-logo.png
+  - title: Mushroom
+    url: /species/jardarions/mushroom/
+    image: /assets/images/jardarion/mushroom-logo.png
+  - title: Tree
+    url: /species/jardarions/tree/
+    image: /assets/images/jardarion/tree-logo.png
+  - title: Witch
+    url: /species/jardarions/witch/
+    image: /assets/images/jardarion/witch-logo.png
