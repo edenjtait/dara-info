@@ -24,6 +24,13 @@ infobox:
 
 # Jardarions
 
+## Subspecies
+
+Jardarions are sentient plantlife that have made the earth their home.
+
+{% assign subspecies = site.data.jardarions.types %}
+{% include category-grid.html items=subspecies %}
+
 ## Habitat and Distribution {#habitat}
 
 *Content to be added*
