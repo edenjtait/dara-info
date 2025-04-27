@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/time-flow-logo.png
+  image: /assets/images/flow-head/time-flow-logo.png
   caption: Time Flow Heads
   attributes:
     - name: World of Origin

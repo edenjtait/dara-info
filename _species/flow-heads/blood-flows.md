@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/blood-flow-logo.png
+  image: /assets/images/flow-head/blood-flow-logo.png
   caption: Blood Flow Heads
   attributes:
     - name: World of Origin

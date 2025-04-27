@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/psionic-flow-logo.png
+  image: /assets/images/flow-head/psionic-flow-logo.png
   caption: Psionic Flow Heads
   attributes:
     - name: World of Origin

@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/cloud-flow-logo.png
+  image: /assets/images/flow-head/cloud-flow-logo.png
   caption: Cloud/Storm Flow Heads
   attributes:
     - name: World of Origin
@@ -40,7 +40,7 @@ infobox:
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/cloud-storm-example-1.png' | relative_url }}" 
+    <img src="{{ '/assets/images/flow-head/cloud-storm-example-1.png' | relative_url }}" 
          alt="Cloud/Storm Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">

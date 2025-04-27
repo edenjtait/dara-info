@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/electric-flow-logo.png
+  image: /assets/images/flow-head/electric-flow-logo.png
   caption: Electric Flow Heads
   attributes:
     - name: World of Origin
@@ -40,7 +40,7 @@ infobox:
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/electric-example-1.png' | relative_url }}" 
+    <img src="{{ '/assets/images/flow-head/electric-example-1.png' | relative_url }}" 
          alt="Electric Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">

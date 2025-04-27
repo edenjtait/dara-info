@@ -17,7 +17,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/water-flow-logo.png
+  image: /assets/images/flow-head/water-flow-logo.png
   caption: Water Flow Heads
   attributes:
     - name: Rarity
@@ -38,7 +38,7 @@ Thanks to modern plumbing, Water Flow Heads can now live wherever freely, even h
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/water-example-1.png' | relative_url }}" 
+    <img src="{{ '/assets/images/flow-head/water-example-1.png' | relative_url }}" 
          alt="Water Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">

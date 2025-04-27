@@ -1,52 +1,52 @@
 common:
   - title: Water Flow Heads
     url: /species/flow-heads/water/
-    image: /assets/images/water-flow-logo.png
+    image: /assets/images/flow-head/water-flow-logo.png
   - title: Fire Flow Heads
     url: /species/flow-heads/fire/
-    image: /assets/images/fire-flow-logo.png
+    image: /assets/images/flow-head/fire-flow-logo.png
   - title: Earth Flow Heads
     url: /species/flow-heads/earth/
-    image: /assets/images/earth-flow-logo.png
+    image: /assets/images/flow-head/earth-flow-logo.png
   - title: Air Flow Heads
     url: /species/flow-heads/air/
-    image: /assets/images/air-flow-logo.png
+    image: /assets/images/flow-head/air-flow-logo.png
 
 uncommon:
   - title: Nature Flow Heads
     url: /species/flow-heads/nature/
-    image: /assets/images/nature-flow-logo.png
+    image: /assets/images/flow-head/nature-flow-logo.png
   - title: Electric Flow Heads
     url: /species/flow-heads/electric/
-    image: /assets/images/electric-flow-logo.png
+    image: /assets/images/flow-head/electric-flow-logo.png
   - title: Cloud/Storm Flow Heads
     url: /species/flow-heads/cloud-storm/
-    image: /assets/images/cloud-flow-logo.png
+    image: /assets/images/flow-head/cloud-flow-logo.png
   - title: Poison Flow Heads
     url: /species/flow-heads/poison/
-    image: /assets/images/poison-flow-logo.png
+    image: /assets/images/flow-head/poison-flow-logo.png
 
 rare:
   - title: Dark/Void Flow Heads
     url: /species/flow-heads/void/
-    image: /assets/images/void-flow-logo.png
+    image: /assets/images/flow-head/void-flow-logo.png
   - title: Blood Flow Heads
     url: /species/flow-heads/blood/
-    image: /assets/images/blood-flow-logo.png
+    image: /assets/images/flow-head/blood-flow-logo.png
   - title: Psionic Flow Heads
     url: /species/flow-heads/psionic/
-    image: /assets/images/psionic-flow-logo.png
+    image: /assets/images/flow-head/psionic-flow-logo.png
   - title: Light Flow Heads
     url: /species/flow-heads/light/
-    image: /assets/images/light-flow-logo.png
+    image: /assets/images/flow-head/light-flow-logo.png
 
 mythical:
   - title: Time Flow Heads
     url: /species/flow-heads/time/
-    image: /assets/images/time-flow-logo.png
+    image: /assets/images/flow-head/time-flow-logo.png
   - title: Space Flow Heads
     url: /species/flow-heads/space/
-    image: /assets/images/space-flow-logo.png
+    image: /assets/images/flow-head/space-flow-logo.png
   - title: Death Flow Heads
     url: /species/flow-heads/death/
-    image: /assets/images/death-flow-logo.png
+    image: /assets/images/flow-head/death-flow-logo.png

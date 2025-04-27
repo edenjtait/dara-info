@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/poison-flow-logo.png
+  image: /assets/images/flow-head/poison-flow-logo.png
   caption: Poison Flow Heads
   attributes:
     - name: World of Origin
@@ -40,7 +40,7 @@ infobox:
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/poison-example-1.png' | relative_url }}" 
+    <img src="{{ '/assets/images/flow-head/poison-example-1.png' | relative_url }}" 
          alt="Poison Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">

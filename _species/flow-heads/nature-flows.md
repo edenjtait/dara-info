@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/nature-flow-logo.png
+  image: /assets/images/flow-head/nature-flow-logo.png
   caption: Nature Flow Heads
   attributes:
     - name: World of Origin
@@ -40,7 +40,7 @@ infobox:
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/nature-example-1.png' | relative_url }}" 
+    <img src="{{ '/assets/images/flow-head/nature-example-1.png' | relative_url }}" 
          alt="Nature Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">

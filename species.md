@@ -38,25 +38,25 @@ Explore each rarity tier and their unique characteristics:
 <div class="category-grid">
   <!-- Astral Eye Moths -->
   <a href="{{ '/species/astral-moths' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/astral-eye-moths-logo.png' | relative_url }}" class="category-image">
+    <img src="{{ '/assets/images/astral-moth/astral-eye-moths-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Astral Eye Moths</div>
   </a>
 
   <!-- Flow Heads -->
   <a href="{{ '/species/flow-heads' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/flow-head-logo.png' | relative_url }}" class="category-image">
+    <img src="{{ '/assets/images/flow-head/flow-head-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Flow Heads</div>
   </a>
 
   <!-- Human Hybrids -->
   <a href="{{ '/species/human-hybrids' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/human-hybrid-logo.png' | relative_url }}" class="category-image">
+    <img src="{{ '/assets/images/human-hybrid/human-hybrid-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Human Hybrids</div>
   </a>
 
   <!-- Jardarions -->
   <a href="{{ '/species/jardarions' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/jardarion-logo.png' | relative_url }}" class="category-image">
+    <img src="{{ '/assets/images/jardarion/jardarion-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Jardarions</div>
   </a>
 
@@ -68,7 +68,7 @@ Explore each rarity tier and their unique characteristics:
 
   <!-- Shore Shifters -->
   <a href="{{ '/species/shore-shifters' | relative_url }}" class="category-item">
-    <img src="{{ '/assets/images/shore-shifter-logo.png' | relative_url }}" class="category-image">
+    <img src="{{ '/assets/images/shore-shifter/shore-shifter-logo.png' | relative_url }}" class="category-image">
     <div class="category-title">Shore Shifters</div>
   </a>
 

@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/space-flow-logo.png
+  image: /assets/images/flow-head/space-flow-logo.png
   caption: Space Flow Heads
   attributes:
     - name: World of Origin
