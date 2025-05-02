@@ -19,12 +19,12 @@ infobox:
   caption: Fire Flow Heads
   attributes:
     - name: Rarity
-      value: 
+      value: Common
+    - name: Common Colorations
+      value: Red, yellow, orange, rarely blue or purple
     - name: Venomous
-      value: 
+      value: false
     - name: Locations
-      value: 
-    - name: Climate Adaptability
       value: 
 ---
 

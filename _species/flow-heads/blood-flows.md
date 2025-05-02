@@ -19,13 +19,13 @@ infobox:
   caption: Blood Flow Heads
   attributes:
     - name: Rarity
-      value: 
+      value: Rare
+    - name: Common Colorations
+      value: Red
     - name: Venomous
-      value: 
+      value: true
     - name: Locations
-      value: 
-    - name: Climate Adaptability
-      value: 
+      value: High population centers
 ---
 
 # Blood Flow Heads

@@ -19,12 +19,12 @@ infobox:
   caption: Electric Flow Heads
   attributes:
     - name: Rarity
-      value: 
+      value: Uncommon
+    - name: Common Colorations
+      value: Yellow, blue, white
     - name: Venomous
-      value: 
+      value:
     - name: Locations
-      value: 
-    - name: Climate Adaptability
       value: 
 ---
 

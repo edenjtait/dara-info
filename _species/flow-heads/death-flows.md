@@ -19,13 +19,13 @@ infobox:
   caption: Death Flow Heads
   attributes:
     - name: Rarity
-      value: 
+      value: Mythical
+    - name: Common Colorations
+      value: Pale, black, decay
     - name: Venomous
-      value: 
+      value: true
     - name: Locations
-      value: 
-    - name: Climate Adaptability
-      value: 
+      value: N/A
 ---
 
 # Death Flow Heads

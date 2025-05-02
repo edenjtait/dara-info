@@ -19,13 +19,13 @@ infobox:
   caption: Air Flow Heads
   attributes:
     - name: Rarity
-      value: 
+      value: Common
+    - name: Common Colorations
+      value: Light pastel blues greens pinks and yellows
     - name: Venomous
-      value: 
+      value: false
     - name: Locations
-      value: 
-    - name: Climate Adaptability
-      value: 
+      value: Mountains, ocean coasts, plains
 ---
 
 # Air Flow Heads

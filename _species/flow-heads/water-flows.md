@@ -22,12 +22,12 @@ infobox:
   attributes:
     - name: Rarity
       value: Common
+    - name: Common Colorations
+      value: Blue, green, and on rare occasions purple
     - name: Venomous
       value: Dependent on Diet
     - name: Locations
       value: Primarily near bodies of water (ponds, rivers, oceans)
-    - name: Climate Adaptability
-      value: Capable of living in extreme climates from rough oceans, rapid rivers, hot springs and desert oases
 ---
 
 # Water Flow Heads

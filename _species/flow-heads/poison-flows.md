@@ -19,13 +19,13 @@ infobox:
   caption: Poison Flow Heads
   attributes:
     - name: Rarity
+      value: Uncommon
+    - name: Common Colorations
       value: 
     - name: Venomous
-      value: 
+      value: true
     - name: Locations
       value: 
-    - name: Climate Adaptability
-      value:  
 ---
 
 # Poison Flow Heads

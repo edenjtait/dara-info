@@ -19,13 +19,13 @@ infobox:
   caption: Cloud/Storm Flow Heads
   attributes:
     - name: Rarity
-      value: 
+      value: Uncommon
+    - name: Common Colorations
+      value: Black, white, shades of gray
     - name: Venomous
-      value: 
+      value: false
     - name: Locations
-      value: 
-    - name: Climate Adaptability
-      value: 
+      value: Mountains, ocean coasts, plains
 ---
 
 # Cloud/Storm Flow Heads

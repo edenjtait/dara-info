@@ -196,6 +196,24 @@ hr {
   background-color: #F2C834;
 }
 
+/* Checkbox styles for infobox */
+.infobox .checkbox {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.infobox .checkbox.checked {
+  color: green;
+}
+
+.infobox .checkbox.unchecked {
+  color: #888;
+}
+
 /* ===== FOOTER ===== */
 #footer {
   text-align: center;

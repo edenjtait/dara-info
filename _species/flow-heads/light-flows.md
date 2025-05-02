@@ -19,12 +19,12 @@ infobox:
   caption: Light Flow Heads
   attributes:
     - name: Rarity
+      value: Rare
+    - name: Common Colorations
       value: 
     - name: Venomous
       value: 
     - name: Locations
-      value: 
-    - name: Climate Adaptability
       value: 
 ---
 

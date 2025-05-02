@@ -15,11 +15,19 @@
         </th>
       </tr>
       {% endif %}
-      
+
       {% for attribute in page.infobox.attributes %}
       <tr>
         <th>{{ attribute.name }}</th>
-        <td>{{ attribute.value }}</td>
+        <td>
+          {% if attribute.value == true or attribute.value == "Yes" or attribute.value == "yes" or attribute.value == "TRUE" or attribute.value == "True" %}
+            ✅
+          {% elsif attribute.value == false or attribute.value == "No" or attribute.value == "no" or attribute.value == "FALSE" or attribute.value == "False" %}
+            ❌
+          {% else %}
+            {{ attribute.value }}
+          {% endif %}
+        </td>
       </tr>
       {% endfor %}
     </table>

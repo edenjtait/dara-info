@@ -19,12 +19,12 @@ infobox:
   caption: Space Flow Heads
   attributes:
     - name: Rarity
+      value: Mythical
+    - name: Common Colorations
       value: 
     - name: Venomous
       value: 
     - name: Locations
-      value: 
-    - name: Climate Adaptability
       value: 
 ---
 

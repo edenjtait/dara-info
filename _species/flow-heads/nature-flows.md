@@ -19,12 +19,12 @@ infobox:
   caption: Nature Flow Heads
   attributes:
     - name: Rarity
+      value: Uncommon
+    - name: Common Colorations
       value: 
     - name: Venomous
       value: 
     - name: Locations
-      value: 
-    - name: Climate Adaptability
       value: 
 ---
 
