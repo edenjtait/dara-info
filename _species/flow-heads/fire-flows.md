@@ -22,10 +22,12 @@ infobox:
       value: Common
     - name: Common Colorations
       value: Red, yellow, orange, rarely blue or purple
+    - name: Flow Texture
+      value: Warm and silky
     - name: Venomous
       value: false
     - name: Locations
-      value: 
+      value: Cities, deserts, rocky mountains
 ---
 
 # Fire Flow Heads

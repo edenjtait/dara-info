@@ -22,6 +22,8 @@ infobox:
       value: Rare
     - name: Common Colorations
       value: Red
+    - name: Flow Texture
+      value: Warm and watery
     - name: Venomous
       value: true
     - name: Locations

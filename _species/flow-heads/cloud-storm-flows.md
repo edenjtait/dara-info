@@ -22,6 +22,8 @@ infobox:
       value: Uncommon
     - name: Common Colorations
       value: Black, white, shades of gray
+    - name: Flow Texture
+      value: Soft and silky, staticky
     - name: Venomous
       value: false
     - name: Locations

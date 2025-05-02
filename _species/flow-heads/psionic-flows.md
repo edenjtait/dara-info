@@ -21,11 +21,13 @@ infobox:
     - name: Rarity
       value: Rare
     - name: Common Colorations
-      value: 
+      value: Bright colors that are often opposites or contrasting
+    - name: Flow Texture
+      value: Gooey
     - name: Venomous
-      value: 
+      value: false
     - name: Locations
-      value: 
+      value: Cities, small towns
 ---
 
 # Psionic Flow Heads

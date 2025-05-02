@@ -21,11 +21,13 @@ infobox:
     - name: Rarity
       value: Rare
     - name: Common Colorations
-      value: 
+      value: Light colors, often near white
+    - name: Flow Texture
+      value: Warm and silky
     - name: Venomous
-      value: 
+      value: false
     - name: Locations
-      value: 
+      value: Cities, small towns
 ---
 
 # Light Flow Heads

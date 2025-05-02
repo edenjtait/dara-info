@@ -22,6 +22,8 @@ infobox:
       value: Common
     - name: Common Colorations
       value: Light pastel blues greens pinks and yellows
+    - name: Flow Texture
+      value: Soft and silky, like cotton candy
     - name: Venomous
       value: false
     - name: Locations

@@ -22,6 +22,8 @@ infobox:
       value: Common
     - name: Common Colorations
       value: Shades of earth, blacks, grays, browns, reds
+    - name: Flow Texture
+      value: Like sand or gravel
     - name: Venomous
       value: false
     - name: Locations

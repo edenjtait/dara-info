@@ -21,11 +21,13 @@ infobox:
     - name: Rarity
       value: Rare
     - name: Common Colorations
-      value: 
+      value: Dark colors, often near black
+    - name: Flow Texture
+      value: Cold and silky
     - name: Venomous
-      value: 
+      value: false
     - name: Locations
-      value: 
+      value: Cities and remote locations
 ---
 
 # Void Flow Heads

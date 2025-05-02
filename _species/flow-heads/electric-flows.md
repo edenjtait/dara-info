@@ -22,10 +22,12 @@ infobox:
       value: Uncommon
     - name: Common Colorations
       value: Yellow, blue, white
+    - name: Flow Texture
+      value: Staticky
     - name: Venomous
-      value:
+      value: false
     - name: Locations
-      value: 
+      value: Cities, coasts, power stations, tall mountains, deserts
 ---
 
 # Electric Flow Heads

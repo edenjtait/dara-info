@@ -21,11 +21,13 @@ infobox:
     - name: Rarity
       value: Mythical
     - name: Common Colorations
-      value: 
+      value: N/A (Not enough data)
+    - name: Flow Texture
+      value: Described as sandy
     - name: Venomous
-      value: 
+      value: false
     - name: Locations
-      value: 
+      value: N/A
 ---
 
 # Time Flow Heads

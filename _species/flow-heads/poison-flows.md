@@ -21,11 +21,13 @@ infobox:
     - name: Rarity
       value: Uncommon
     - name: Common Colorations
-      value: 
+      value: Neon purples, greens, oranges, yellows and reds
+    - name: Flow Texture
+      value: Watery, numbing effect
     - name: Venomous
       value: true
     - name: Locations
-      value: 
+      value: Cities, swamps, highly polluted areas
 ---
 
 # Poison Flow Heads

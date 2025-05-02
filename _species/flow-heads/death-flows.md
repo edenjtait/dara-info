@@ -22,6 +22,8 @@ infobox:
       value: Mythical
     - name: Common Colorations
       value: Pale, black, decay
+    - name: Flow Texture
+      value: Cold and brittle
     - name: Venomous
       value: true
     - name: Locations

@@ -21,11 +21,13 @@ infobox:
     - name: Rarity
       value: Mythical
     - name: Common Colorations
-      value: 
+      value: N/A
+    - name: Flow Texture
+      value: Cold and silky
     - name: Venomous
-      value: 
+      value: false
     - name: Locations
-      value: 
+      value: N/A
 ---
 
 # Space Flow Heads

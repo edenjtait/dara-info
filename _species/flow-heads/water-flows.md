@@ -24,6 +24,8 @@ infobox:
       value: Common
     - name: Common Colorations
       value: Blue, green, and on rare occasions purple
+    - name: Flow Texture
+      value: Watery
     - name: Venomous
       value: Dependent on Diet
     - name: Locations

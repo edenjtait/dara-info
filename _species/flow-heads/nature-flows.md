@@ -21,11 +21,13 @@ infobox:
     - name: Rarity
       value: Uncommon
     - name: Common Colorations
-      value: 
+      value: Greens yellows reds and browns
+    - name: Flow Texture
+      value: Fiberous and leafy
     - name: Venomous
-      value: 
+      value: true
     - name: Locations
-      value: 
+      value: Grasslands, forests, swamps, and ocean coasts
 ---
 
 # Nature Flow Heads
