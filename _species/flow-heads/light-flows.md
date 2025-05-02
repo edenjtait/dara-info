@@ -18,22 +18,14 @@ infobox:
   image: /assets/images/flow-head/light-flow-logo.png
   caption: Light Flow Heads
   attributes:
-    - name: World of Origin
-      value: Unknown
-    - name: Subspecies Specifics
-      value: Bipedal Teleportation (Dependent on Flow Head type)
-    - name: Average height
-      value: 170 cm (5'7") for females, 180 cm (5'11") for males
-    - name: Average weight
-      value: 72.5 kg (160 lbs) for females, 81.6 kg (180 lbs) for males
-    - name: Landing Site
-      value: Southern Arizona
-    - name: Megaflora
-      value: "The Great Tree"
-    - name: Diet
-      value: Omnivorous, strong preference to fruits
-    - name: Average lifespan
-      value: 100-150 years
+    - name: Rarity
+      value: 
+    - name: Venomous
+      value: 
+    - name: Locations
+      value: 
+    - name: Climate Adaptability
+      value: 
 ---
 
 # Light Flow Heads

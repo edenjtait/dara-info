@@ -30,7 +30,7 @@ infobox:
     - name: World of Origin
       value: Unknown
     - name: Locomotion
-      value: Bipedal Teleportation (Dependent on Flow Head type)
+      value: Bipedal, Teleportation (Dependent on Flow Head type)
     - name: Average height
       value: 170 cm (5'7") for females, 180 cm (5'11") for males
     - name: Average weight
