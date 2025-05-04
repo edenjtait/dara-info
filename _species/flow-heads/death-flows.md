@@ -34,7 +34,7 @@ infobox:
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/death-example-1.png' | relative_url }}" 
+    <img src="{{ '/assets/images/flow-head/death-example-1.png' | relative_url }}" 
          alt="Death Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
