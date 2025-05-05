@@ -18,12 +18,12 @@ infobox:
   image: /assets/images/jardarion/gardner-logo.png
   caption: Gardner Jardarions
   attributes:
-    - name: Variations
-      value: 
+    - name: Common Variations
+      value: Sunflowers, Daisies, Marigolds
     - name: Poisonous
       value: false
     - name: Locations
-      value: 
+      value: Cities, Countrysides, and anywhere suitable for plantgrowth
 ---
 
 ## Abilities {#abilities}

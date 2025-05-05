@@ -18,12 +18,12 @@ infobox:
   image: /assets/images/jardarion/tree-logo.png
   caption: Tree Jardarions
   attributes:
-    - name: Variations
-      value: 
+    - name: Common Variations
+      value: Oak, Spruce, Pine, Palm, Fruit
     - name: Poisonous
       value: false
     - name: Locations
-      value: 
+      value: Cities, Towns, Forests, Jardarion Collectives
 ---
 
 ## Abilities {#abilities}

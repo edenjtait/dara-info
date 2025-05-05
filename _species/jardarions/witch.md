@@ -18,12 +18,12 @@ infobox:
   image: /assets/images/jardarion/witch-logo.png
   caption: Witch Jardarions
   attributes:
-    - name: Variations
-      value: 
+    - name: Common Variations
+      value: Belladonna, Nightshade, Thyme, Wolfsbane, Hemlock, Lavender
     - name: Poisonous
       value: false
     - name: Locations
-      value: 
+      value: Small Towns, Villages, Jardarion Collectives
 ---
 
 ## Abilities {#abilities}

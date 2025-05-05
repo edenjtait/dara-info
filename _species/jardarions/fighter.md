@@ -18,12 +18,12 @@ infobox:
   image: /assets/images/jardarion/fighter-logo.png
   caption: Fighter Jardarions
   attributes:
-    - name: Variations
-      value: 
+    - name: Common Variations
+      value: Cacti, Roses, Carnivorous plants
     - name: Poisonous
       value: false
     - name: Locations
-      value: 
+      value: Population centers
 ---
 
 ## Abilities {#abilities}

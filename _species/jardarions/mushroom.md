@@ -18,12 +18,12 @@ infobox:
   image: /assets/images/jardarion/mushroom-logo.png
   caption: Mushroom Jardarions
   attributes:
-    - name: Variations
+    - name: Common Variations
       value: 
     - name: Poisonous
-      value: false
+      value: Depends on Variation
     - name: Locations
-      value: 
+      value: Everywhere
 ---
 
 ## Abilities {#abilities}

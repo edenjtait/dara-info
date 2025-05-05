@@ -18,12 +18,12 @@ infobox:
   image: /assets/images/jardarion/aquatic-logo.png
   caption: Aquatic Jardarions
   attributes:
-    - name: Variations
-      value: 
+    - name: Example Variations
+      value: Lilies, Seaweeds, Coral
     - name: Poisonous
       value: false
     - name: Locations
-      value: 
+      value: By or in sources of water
 ---
 
 ## Abilities {#abilities}
