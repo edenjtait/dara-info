@@ -26,6 +26,10 @@ infobox:
       value: By or in sources of water
 ---
 
+# Aquatic-type Jardarions
+
+Aquatic Jardarions are often found in cultural centers near or around bodies of water, and often found living in groups with many other species. There are many variations but most commonly there are the Lily types, the Moss types, the Flower types, the Submerged types, and the Coral types. Most species of plant that can be found in or around bodies of water have had a Jardarion counterpart crop up at some point in written history.
+
 ## Abilities {#abilities}
 
 ## Weaknesses and Limitations {#weaknesses}

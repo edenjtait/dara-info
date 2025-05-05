@@ -24,9 +24,9 @@ infobox:
 
 # Jardarions
 
-## Subspecies
+Jardarions are sentient plantlife that have made the earth their home. Often Speculated as being a byproduct of The Great Tree, they live all over the planet in every conceivable environment.
 
-Jardarions are sentient plantlife that have made the earth their home.
+## Subspecies
 
 {% assign subspecies = site.data.jardarions.types %}
 {% include category-grid.html items=subspecies %}
@@ -45,7 +45,11 @@ Jardarions are sentient plantlife that have made the earth their home.
 
 ## In Culture {#culture}
 
-*Content to be added*
+It is often joked that if the Humans reproduced any slower, the Jardarions would run the place. 
+
+Jardarions run the world's information network using natural mycelial networks in combination with modern computing hardware in order to send signals all across the world in moments. With the advent of the internet the already quite advanced Jardarions integrated closely with their local governments in order to maintain an informational advantage against foreign adversaries. Some Jardarions, mostly Mushroom subtypes, have direct access to these networks and have for as long back as written history goes, but for the first time in history all sentient species can take advantage of this wide interconnectivity with the click of a button, or the tap of a screen.
+
+Jardarions have a long history of keeping peace between the other 7 species, with varying degrees of success. The last 50 years have had no major conflicts between any of the sentient life on the planet. Even so most Jardarions are seen and categorized by their combat applications. Some activists argue that the different subtypes should be renamed or recategorized or combined. In order to maintain accuracy, we here at DARA use the most up to date terms that are commonly widely accepted, if you have any feedback or additional questions you may direct them to our [services and resources]({{ '/servies' | relative_url }}) page.
 
 ## Gallery {#gallery}
 
