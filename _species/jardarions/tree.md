@@ -18,7 +18,7 @@ infobox:
   image: /assets/images/jardarion/tree-logo.png
   caption: Tree Jardarions
   attributes:
-    - name: Common Variations
+    - name: Example Variations
       value: Oak, Spruce, Pine, Palm, Fruit
     - name: Poisonous
       value: false

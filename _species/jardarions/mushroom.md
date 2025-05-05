@@ -18,8 +18,8 @@ infobox:
   image: /assets/images/jardarion/mushroom-logo.png
   caption: Mushroom Jardarions
   attributes:
-    - name: Common Variations
-      value: 
+    - name: Example Variations
+      value: Shiitake, Morel, Lion's Mane, Webcap
     - name: Poisonous
       value: Depends on Variation
     - name: Locations

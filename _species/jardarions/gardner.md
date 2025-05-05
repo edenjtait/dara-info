@@ -18,7 +18,7 @@ infobox:
   image: /assets/images/jardarion/gardner-logo.png
   caption: Gardner Jardarions
   attributes:
-    - name: Common Variations
+    - name: Example Variations
       value: Sunflowers, Daisies, Marigolds
     - name: Poisonous
       value: false

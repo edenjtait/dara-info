@@ -18,7 +18,7 @@ infobox:
   image: /assets/images/jardarion/witch-logo.png
   caption: Witch Jardarions
   attributes:
-    - name: Common Variations
+    - name: Example Variations
       value: Belladonna, Nightshade, Thyme, Wolfsbane, Hemlock, Lavender
     - name: Poisonous
       value: false
