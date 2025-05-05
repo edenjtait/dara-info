@@ -18,8 +18,22 @@ infobox:
   image: /assets/images/jardarions.png
   caption: Jardarions
   attributes:
-    - name: test
-      value: test
+    - name: World of Origin
+      value: Unknown
+    - name: Locomotion
+      value: Bipedal
+    - name: Average height
+      value: Highly dependant on subtype
+    - name: Average weight
+      value: Highly dependant on subtype
+    - name: Landing Site
+      value: Southern Arizona (speculated)
+    - name: Megaflora
+      value: "The Great Tree"
+    - name: Diet
+      value: Highly depenant on subtype
+    - name: Average lifespan
+      value: Highly depentant on subtype
 ---
 
 # Jardarions
