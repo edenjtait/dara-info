@@ -14,6 +14,16 @@ sidebar_menu:
     title: Additional Information
   - id: gallery
     title: Gallery
+infobox:
+  image: /assets/images/jardarion/tree-logo.png
+  caption: Tree Jardarions
+  attributes:
+    - name: Variations
+      value: 
+    - name: Poisonous
+      value: false
+    - name: Locations
+      value: 
 ---
 
 ## Abilities {#abilities}

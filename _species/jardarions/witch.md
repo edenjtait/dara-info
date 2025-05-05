@@ -14,6 +14,16 @@ sidebar_menu:
     title: Additional Information
   - id: gallery
     title: Gallery
+infobox:
+  image: /assets/images/jardarion/witch-logo.png
+  caption: Witch Jardarions
+  attributes:
+    - name: Variations
+      value: 
+    - name: Poisonous
+      value: false
+    - name: Locations
+      value: 
 ---
 
 ## Abilities {#abilities}
