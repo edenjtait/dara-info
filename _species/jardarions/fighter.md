@@ -26,6 +26,10 @@ infobox:
       value: Population centers
 ---
 
+# Fighter-type Jardarions
+
+Fighter Jardarions are one of the examples of subtype that are defined more by their role in society rather than the category of plantlife they resemble. There's typically a lot of overlap between Fighters and other subtypes for this reason, for example a Rose Jardarion could easily be a fighter or garnder depending on the life they choose for themself. Fighers used to be called Soldiers but as the world has progressed towards peace they have taken up other roles in society, for example they've widely taken up sports, construction, emergency services, and other physically demanding jobs.
+
 ## Abilities {#abilities}
 
 ## Weaknesses and Limitations {#weaknesses}
