@@ -4,6 +4,21 @@ title: Jardarions | DARA Species Database
 permalink: /species/jardarions/
 show_sidebar: true
 sidebar_menu:
+  - id: subspecies
+    title: Subspecies
+    subsections:
+      - id: /species/jardarions/aquatic/
+        title: Aquatic
+      - id: /species/jardarions/fighter/
+        title: Fighter
+      - id: /species/jardarions/gardner/
+        title: Gardner
+      - id: /species/jardarions/mushroom/
+        title: Mushroom
+      - id: /species/jardarions/tree/
+        title: Tree
+      - id: /species/jardarions/witch/
+        title: Witch
   - id: habitat
     title: Habitat and Distribution
   - id: reproduction

@@ -6,6 +6,15 @@ show_sidebar: true
 sidebar_menu:
   - id: flow-types
     title: Subspecies Types
+    subsections:
+      - id: common
+        title: Common
+      - id: uncommon
+        title: Uncommon
+      - id: rare
+        title: Rare
+      - id: mythical
+        title: Mythical
   - id: habitat
     title: Habitat and Distribution
   - id: anatomy
@@ -67,22 +76,22 @@ Flow Heads come in 4 rarities: [Common](#common-flow), [Uncommon](#uncommon-flow
 
 All Flow heads are born with elemental abilities, but not all Flow Heads are equal in power. It is generally known that common Flows are the weakest yet fastest to learn how to harness their abilities while mythical Flows are so strong that even they cannot control their own abilities and will likely never learn how to.
 
-## Common Flow Heads {#common-flow}
+## Common Flow Heads {#common}
 
 {% assign common_flows = site.data.flow_heads.common %}
 {% include category-grid.html items=common_flows %}
 
-## Uncommon Flow Heads {#uncommon-flow}
+## Uncommon Flow Heads {#uncommon}
 
 {% assign uncommon_flows = site.data.flow_heads.uncommon %}
 {% include category-grid.html items=uncommon_flows %}
 
-## Rare Flow Heads {#rare-flow}
+## Rare Flow Heads {#rare}
 
 {% assign rare_flows = site.data.flow_heads.rare %}
 {% include category-grid.html items=rare_flows %}
 
-## Mythical Flow Heads {#mythical-flow}
+## Mythical Flow Heads {#mythical}
 
 {% assign mythical_flows = site.data.flow_heads.mythical %}
 {% include category-grid.html items=mythical_flows %}
