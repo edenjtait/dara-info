@@ -4,36 +4,47 @@ title: DARA Species Database
 permalink: /species/
 show_sidebar: true
 sidebar_menu:
-  - id: astral-moth
+  - id: /species/astral-moths/
     title: Astral Eye Moths
-  - id: flow-heads
+  - id: /species/flow-heads/
     title: Flow Heads
     subsections:
-      - id: common-flow
-        title: Common Flow Heads
-      - id: uncommon-flow
-        title: Uncommon Flow Heads
-      - id: rare-flow
-        title: Rare Flow Heads
-      - id: mythical-flow
-        title: Mythical Flow Heads
-  - id: human-hybrids
+      - id: /species/flow-heads/#common
+        title: Common Flows
+      - id: /species/flow-heads/#uncommon
+        title: Uncommon Flows
+      - id: /species/flow-heads/#rare
+        title: Rare Flows
+      - id: /species/flow-heads/#mythical
+        title: Mythical Flows
+  - id: /species/human-hybrids/
     title: Human Hybrids
-  - id: jardarions
+  - id: /species/jardarions/
     title: Jardarions
-  - id: lumiraptors
+    subsections:
+      - id: /species/jardarions/aquatic/
+        title: Aquatic
+      - id: /species/jardarions/fighter/
+        title: Fighter
+      - id: /species/jardarions/gardner/
+        title: Gardner
+      - id: /species/jardarions/mushroom/
+        title: Mushroom
+      - id: /species/jardarions/tree/
+        title: Tree
+      - id: /species/jardarions/witch/
+        title: Witch
+  - id: /species/lumiraptors/
     title: Lumiraptors
-  - id: shore-shifters
+  - id: /species/shore-shifters/
     title: Shore Shifters
-  - id: star-shrieks
+  - id: /species/star-shrieks/
     title: Star Shrieks
 ---
 
 # DARA Species Database
 
-Flow Heads are classified into four distinct categories: Common, Uncommon, Rare, and Mythical. While the power of their elemental abilities generally increases with rarity, the control over those abilities follows an inverse pattern—less rare Flow Heads typically master their powers at a younger age and with greater precision. For example, a Common Flow Head might master basic abilities by age 12, whereas a Mythical Flow Head may struggle even as young adults to handle their abilities could struggle to contain their overwhelming power.
-
-Explore each rarity tier and their unique characteristics:
+Many different sentient species occupy our Earth, many are thought to be originally from other planets due to their unique DNA patterns and lack of evolutionary evidence left here on earth. Based on what scientists have unearthed the below species have been determined to have either originated from outside our planet or have been greatly genetically influenced by the species outside of our planet. More specific information on each of the species can be found in their respective pages.
 
 <div class="category-grid">
   <!-- Astral Eye Moths -->
