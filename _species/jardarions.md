@@ -22,18 +22,14 @@ infobox:
       value: Unknown
     - name: Locomotion
       value: Bipedal
-    - name: Average height
-      value: Highly dependant on subtype
-    - name: Average weight
-      value: Highly dependant on subtype
+    - name: Average height, weight and lifespan
+      value: Highly dependant on subtype, please see subspecies page for more details
     - name: Landing Site
       value: Southern Arizona (speculated)
     - name: Megaflora
       value: "The Great Tree"
     - name: Diet
-      value: Highly depenant on subtype
-    - name: Average lifespan
-      value: Highly depentant on subtype
+      value: **Diet varies by subtype:** typically photosynthetic or detritivorous, occasionally carnivorous.
 ---
 
 # Jardarions
