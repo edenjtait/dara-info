@@ -29,7 +29,8 @@ infobox:
     - name: Megaflora
       value: "The Great Tree"
     - name: Diet
-      value: **Diet varies by subtype:** typically photosynthetic or detritivorous, occasionally carnivorous.
+      value: |
+        Diet varies by subtype: typically photosynthetic or detritivorous, occasionally carnivorous.
 ---
 
 # Jardarions
