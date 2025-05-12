@@ -74,7 +74,9 @@ There are several distinct subspecies of Flow Heads, each with unique characteri
 
 Flow Heads come in 4 rarities: [Common](#common-flow), [Uncommon](#uncommon-flow), [Rare](#rare-flow), and [Mythical](#mythical-flow).
 
-All Flow heads are born with elemental abilities, but not all Flow Heads are equal in power. It is generally known that common Flows are the weakest yet fastest to learn how to harness their abilities while mythical Flows are so strong that even they cannot control their own abilities and will likely never learn how to.
+All Flow heads are born with elemental abilities, but not all Flow Heads are equal in power. It is generally known that common Flows are the weakest yet fastest to learn how to harness their abilities while mythical Flows are so powerful that even they cannot control their own abilities and in most cases never learn how. 
+
+Common Flow Heads seem to match our classical elements in terms of their abilities and appearance, which has given credit to the proverbial "chicken and egg" debate over whether the idea of classical elements or the Flow Heads themselves came first. Recently researchers have 
 
 ## Common Flow Heads {#common}
 

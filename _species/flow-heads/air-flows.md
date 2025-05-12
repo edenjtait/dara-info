@@ -44,6 +44,8 @@ infobox:
 
 ## Abilities {#abilities}
 
+Air type Flow Heads have been widely observed throughout history to have various abilities related to the classical element Air. For example they've been observed as being able to 
+
 ## Weaknesses and Limitations {#weaknesses}
 
 ## Cultural and Personal Traits {#cultural-traits}
