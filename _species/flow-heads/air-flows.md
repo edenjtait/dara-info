@@ -44,9 +44,11 @@ infobox:
 
 ## Abilities {#abilities}
 
-Air type Flow Heads have been widely observed throughout history to have various abilities related to the classical element Air. For example they've been observed as being able to 
+Air type Flow Heads have been widely observed throughout history to have various abilities related to the classical element Air. For example they've been observed as being able to control the direction, speed, and intensity of wind. They've also been observed to have resistance to cold and heat, and have enhanced senses, speed, and lung capactiy. In groups they have been observed to be able to combine their efforts to recreate abilities on a similar scale to [Storm Flow Heads]({{ '/species/flow-heads/cloud-storm' | relative_url }}).
 
 ## Weaknesses and Limitations {#weaknesses}
+
+Air Flow Heads tend to be more prone to major injury, due to their lower than average bone density. 
 
 ## Cultural and Personal Traits {#cultural-traits}
 

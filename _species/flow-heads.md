@@ -76,7 +76,13 @@ Flow Heads come in 4 rarities: [Common](#common-flow), [Uncommon](#uncommon-flow
 
 All Flow heads are born with elemental abilities, but not all Flow Heads are equal in power. It is generally known that common Flows are the weakest yet fastest to learn how to harness their abilities while mythical Flows are so powerful that even they cannot control their own abilities and in most cases never learn how. 
 
-Common Flow Heads seem to match our classical elements in terms of their abilities and appearance, which has given credit to the proverbial "chicken and egg" debate over whether the idea of classical elements or the Flow Heads themselves came first. Recently researchers have 
+Common Flow Heads seem to match our classical elements in terms of their abilities and appearance, which has given credit to the proverbial "chicken and egg" debate over whether the idea of classical elements or the Flow Heads themselves came first. Recently researchers have uncovered evidence of Flow Heads on Earth going back further than the idea of classical elements arose, although it's questionable whether there will be evidence found of them being in Europe in the appropriate era.
+
+Uncommon Flow Heads seem to be categororical variants of Common Flow Heads, they're more specialized and seem to map one to one, Water to Poison, Air to Storm, Fire to Electric, and Earth to Nature. This has given way to the theory that the Flow Heads were created rather than evolved naturally, but given that the pattern stops there and most of the theories presented are theological in nature those claims are laregly unsupported.
+
+Rare Flow Heads are typically seen as the exception to the rule, where uncommon Flows are 1 in 1,000, Rares are 1 in 1,000,000. When identified they are immediately registered into the International Jardarion Database where they can be closely monitored and have special care taken of them. Rare Flow Heads are a potential danger to themselves and those around them while they're developing their abilities so it's necessary that we guide their development in a controlled environment accordingly.
+
+Mythical Flow Heads are vanishingly rare, exact statistics aren't available due to lack of information, but one or two born about every century based on what historians, archeologists, and geoligists have uncovered so far. Notably they have a history of being "bad omens" but that was also once believed about Rare Flows. With the advent of modern process we believe that current and future Mythicals can have the same opportunities of all sentient creatures. 
 
 ## Common Flow Heads {#common}
 
