@@ -370,7 +370,7 @@ aside {
 }
 
 .category-image {
-  width: 225px;
+  width: 100%;
   height: auto;
   object-fit: contain;
   border-bottom: 1px solid rgba(167, 215, 249, 0.2);
