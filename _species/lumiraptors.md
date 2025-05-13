@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/lumiraptors.png
+  image: /assets/images/lumiraptor/lumiraptor-logo.png
   caption: Lumiraptors
   attributes:
     - name: test

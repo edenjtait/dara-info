@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/human-hybrids.png
+  image: /assets/images/human-hybrid/human-hybrid-logo.png
   caption: Human Hybrids
   attributes:
     - name: test

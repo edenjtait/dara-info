@@ -30,7 +30,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/jardarions.png
+  image: /assets/images/jardarion/jardarion-logo.png
   caption: Jardarions
   attributes:
     - name: World of Origin

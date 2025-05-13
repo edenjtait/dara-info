@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/astral-moths.png
+  image: /assets/images/astral-moth/astral-eye-moths-logo.png
   caption: Astral Moths
   attributes:
     - name: test

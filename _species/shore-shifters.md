@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/shore-shifters.png
+  image: /assets/images/shore-shifter/shore-shifter-logo.png
   caption: Shore Shifters
   attributes:
     - name: test

@@ -15,7 +15,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/star-shrieks.png
+  image: /assets/images/star-shriek/star-shriek-logo.png
   caption: Star Shrieks
   attributes:
     - name: test
