@@ -38,7 +38,7 @@ infobox:
          alt="Time Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
-    <figcaption>A typical Time Flow Head specimen (click to enlarge)</figcaption>
+    <figcaption>Painting of "a strange sandy flow head" theorized to be a time flow head, 1789 (click to enlarge)</figcaption>
   </figure>
 </div>
 

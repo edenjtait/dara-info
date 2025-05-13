@@ -38,7 +38,7 @@ infobox:
          alt="Death Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
-    <figcaption>A typical Death Flow Head specimen (click to enlarge)</figcaption>
+    <figcaption>Photo of the last known living Death Flow Head, 1917 (click to enlarge)</figcaption>
   </figure>
 </div>
 
