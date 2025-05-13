@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: services
 title: Services and Resources | DARA Services and Resources
 permalink: /services
 ---
