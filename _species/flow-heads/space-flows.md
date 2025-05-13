@@ -38,7 +38,7 @@ infobox:
          alt="Space Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
-    <figcaption>A typical Space Flow Head specimen (click to enlarge)</figcaption>
+    <figcaption>Photo of the only known living Space Flow Head (click to enlarge)</figcaption>
   </figure>
 </div>
 

@@ -31,7 +31,7 @@ sidebar_menu:
   - id: culture
     title: In Culture
   - id: gallery
-    title: Gallery
+title: Gallery
 infobox:
   image: /assets/images/flow-head/flow-head-logo.png
   caption: Flow Heads
@@ -134,7 +134,7 @@ Prolonged stays within Flow pocket dimensions have been discouraged by mental he
 
 ## Growth and Aging {#growth}
 
-*Content to be added*
+Flow Heads are born with patterned dark gray skin that lightens as they grow older. Their flows and eyes usually have some coloration in them from birth, but don't have specific abilities until around age four, at which time the colors typically shift too. Some Flow Head parents try and use the coloration at birth to predict typing, but it can be hard to tell for sure except in special cases. By the age of four most Flow Heads start to progress past crawling and typically walk around hunched over, using their tails to counter balance while they learn to walk upright. From age four to nine they start to show 
 
 ## In Culture {#culture}
 
