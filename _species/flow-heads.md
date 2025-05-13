@@ -33,7 +33,7 @@ sidebar_menu:
   - id: gallery
     title: Gallery
 infobox:
-  image: /assets/images/flow-heads.png
+  image: /assets/images/flow-head/flow-head-logo.png
   caption: Flow Heads
   attributes:
     - name: World of Origin
@@ -60,7 +60,7 @@ infobox:
 
 <div class="species-image">
   <figure>
-    <img src="{{ '/assets/images/flow-heads.png' | relative_url }}" 
+    <img src="{{ '/assets/images/flow-head/cloud-storm-example-1.png' | relative_url }}" 
          alt="Flow Head" 
          class="thumbnail" 
          onclick="openLightbox(this.src, this.alt)">
@@ -72,9 +72,9 @@ infobox:
 
 There are several distinct subspecies of Flow Heads, each with unique characteristics, some are more rare than others. DARA has decided category by rarity is the most neutral and objective way to categorize Flow Heads. Many other ways of organizing and talking about Flow Heads have been common throughout the ages but the way we talk about them comes from the modern advent of science, giving us objective measures by which we can compare and contrast while keeping our internal biases in check. 
 
-Flow Heads come in 4 rarities: [Common](#common-flow), [Uncommon](#uncommon-flow), [Rare](#rare-flow), and [Mythical](#mythical-flow).
+Flow Heads come in 4 rarities: [Common](#common), [Uncommon](#uncommon), [Rare](#rare), and [Mythical](#mythical).
 
-All Flow heads are born with elemental abilities, but not all Flow Heads are equal in power. It is generally known that common Flows are the weakest yet fastest to learn how to harness their abilities while mythical Flows are so powerful that even they cannot control their own abilities and in most cases never learn how. We have started to combat this reality by taking in Flows of higher rarity in hopes of giving them proper education, training, and job opportunities. 
+All Flow heads are born with elemental abilities, but not all Flow Heads are equal in power. It is generally known that common Flows are the weakest yet fastest to learn how to harness their abilities while mythical Flows are so powerful that even they cannot control their own abilities and in most cases never learn how. We have started to equalize the playing field so to say by taking in Flows of higher rarity in hopes of giving them proper education, training, and job opportunities as well as offering resources and classes.
 
 ## Common Flow Heads {#common}
 
