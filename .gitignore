@@ -5,3 +5,7 @@ _site
 vendor
 
 .obsidian
+
+node_modules
+package-lock.json
+package.json
