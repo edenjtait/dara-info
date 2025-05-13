@@ -78,6 +78,8 @@ All Flow heads are born with elemental abilities, but not all Flow Heads are equ
 
 ## Common Flow Heads {#common}
 
+Common Flow Heads are a vast majority of Flows, with about 85% falling into one of the common subtypes. They usually master their abilities by the time they're 18. 
+
 Common Flow Heads seem to match our classical elements in terms of their abilities and appearance, which has given credit to the proverbial "chicken and egg" debate over whether the idea of classical elements or the Flow Heads themselves came first. Recently researchers have uncovered evidence of Flow Heads on Earth going back further than the idea of classical elements arose, although it's questionable whether there will be evidence found of them being in Europe in the appropriate era.
 
 {% assign common_flows = site.data.flow_heads.common %}
@@ -85,14 +87,16 @@ Common Flow Heads seem to match our classical elements in terms of their abiliti
 
 ## Uncommon Flow Heads {#uncommon}
 
-Uncommon Flow Heads seem to be categororical variants of Common Flow Heads, they're more specialized and seem to map one to one, Water to Poison, Air to Storm, Fire to Electric, and Earth to Nature. This has given way to the theory that the Flow Heads were created rather than evolved naturally, but given that the pattern stops there and most of the theories presented are theological in nature those claims are laregly unsupported.
+Uncommon Flow Heads make up about 15% of the Flow Head population, making them a significant minority. They tend to master their powers between the ages of 16 and 35, making them late bloomers comparatively. In exchange usually Uncommon Flows have much stronger powers than their common counterparts. 
+
+Uncommon Flow Heads seem to be categorical variants of Common Flow Heads, they're more specialized and seem to map one to one, Water to Poison, Air to Storm, Fire to Electric, and Earth to Nature. This has given way to the theory that the Flow Heads were created rather than evolved naturally, but given that the pattern stops there and most of the theories presented are theological in nature those claims are laregly unsupported.
 
 {% assign uncommon_flows = site.data.flow_heads.uncommon %}
 {% include category-grid.html items=uncommon_flows %}
 
 ## Rare Flow Heads {#rare}
 
-Rare Flow Heads are typically seen as the exception to the rule, where uncommon Flows are 1 in 1,000, Rares are 1 in 1,000,000. When identified they are immediately registered into the International Jardarion Database where they can be closely monitored and have special care taken of them. Rare Flow Heads are a potential danger to themselves and those around them while they're developing their abilities so it's necessary that we guide their development in a controlled environment accordingly.
+Rare Flow Heads are born about 1 in 1,000,000 times. When identified they are immediately registered into the [International Jardarion Database]({{ 'species/jardarions/#culture' | relative_url }}) where they can be closely monitored and have special care taken of them. Rare Flow Heads are a potential danger to themselves and those around them while they're developing their abilities so it's necessary that we guide their development in a controlled environment accordingly.
 
 {% assign rare_flows = site.data.flow_heads.rare %}
 {% include category-grid.html items=rare_flows %}
@@ -134,7 +138,9 @@ Prolonged stays within Flow pocket dimensions have been discouraged by mental he
 
 ## Growth and Aging {#growth}
 
-Flow Heads are born with patterned dark gray skin that lightens as they grow older. Their flows and eyes usually have some coloration in them from birth, but don't have specific abilities until around age four, at which time the colors typically shift too. Some Flow Head parents try and use the coloration at birth to predict typing, but it can be hard to tell for sure except in special cases. By the age of four most Flow Heads start to progress past crawling and typically walk around hunched over, using their tails to counter balance while they learn to walk upright. From age four to nine they start to show 
+Flow Heads are born with patterned dark gray skin that lightens as they grow older. It's hard to tell male and female Flow Heads apart at birth aside from the number of ear tips they have, with females typically having 2 while males typically have 3. Their flows and eyes usually have some coloration in them from birth, but don't have specific abilities until around age four, at which time the colors typically shift too. Some Flow Head parents try and use the coloration at birth to predict typing, but it can be hard to tell for sure except in special cases. By the age of four most Flow Heads start to progress past crawling and typically walk around hunched over, using their tails to counter balance while they learn to walk upright. 
+
+From age four to nine more significant sexual dimorphism starts to appear, with the female's eye color growing darker while the male's grow lighter. During this period of time Flow Heads often start getting the hang of their powers, 
 
 ## In Culture {#culture}
 
