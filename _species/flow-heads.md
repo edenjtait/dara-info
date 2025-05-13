@@ -140,7 +140,7 @@ Prolonged stays within Flow pocket dimensions have been discouraged by mental he
 
 Flow Heads are born with patterned dark gray skin that lightens as they grow older. It's hard to tell male and female Flow Heads apart at birth aside from the number of ear tips they have, with females typically having 2 while males typically have 3. Their flows and eyes usually have some coloration in them from birth, but don't have specific abilities until around age four, at which time the colors typically shift too. Some Flow Head parents try and use the coloration at birth to predict typing, but it can be hard to tell for sure except in special cases. By the age of four most Flow Heads start to progress past crawling and typically walk around hunched over, using their tails to counter balance while they learn to walk upright. 
 
-From age four to nine more significant sexual dimorphism starts to appear, with the female's eye color growing darker while the male's grow lighter. During this period of time Flow Heads often start getting the hang of their powers, 
+From age four to nine more significant sexual dimorphism starts to appear, with the female's eye color growing darker while the male's grow lighter. During this period of time Flow Heads often start getting the hang of their powers, sometimes to mildly disastrous results. 
 
 ## In Culture {#culture}
 
